@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#EEF1F6</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="stroke">#D5DAE5</color>
+    <color name="text">#121A2B</color>
+    <color name="text_muted">#5E6A82</color>
+    <color name="text_hint">#8B95AB</color>
+    <color name="tab_indicator">#17233D</color>
+    <color name="panel">#17233D</color>
+    <color name="panel_text">#F1F4FC</color>
+    <color name="panel_muted">#8E9BB8</color>
+    <color name="panel_error">#FF9C8F</color>
+    <color name="accent">#FFB43B</color>
+    <color name="on_accent">#17233D</color>
+    <color name="ic_launcher_background">#17233D</color>
+</resources>

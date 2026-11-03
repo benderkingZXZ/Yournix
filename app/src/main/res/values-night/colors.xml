@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0D1220</color>
+    <color name="surface">#151C2E</color>
+    <color name="stroke">#26304A</color>
+    <color name="text">#E9EDF7</color>
+    <color name="text_muted">#96A1BB</color>
+    <color name="text_hint">#66718C</color>
+    <color name="tab_indicator">#FFB43B</color>
+    <color name="panel">#1D2B4D</color>
+</resources>

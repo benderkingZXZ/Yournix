@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yournix</string>
+    <string name="tab_encrypt">Шифрование</string>
+    <string name="tab_decrypt">Расшифровка</string>
+    <string name="hint_encrypt">Введите или вставьте текст</string>
+    <string name="hint_decrypt">Вставьте шифротекст</string>
+    <string name="placeholder_encrypt">Здесь появится шифротекст</string>
+    <string name="placeholder_decrypt">Здесь появится расшифрованный текст</string>
+    <string name="paste">Вставить</string>
+    <string name="clear">Очистить</string>
+    <string name="copy">Копировать</string>
+    <string name="copied">Скопировано</string>
+    <string name="clipboard_empty">Буфер обмена пуст</string>
+</resources>
